@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jul 14, 2023 at 04:05 PM
+-- Generation Time: Sep 11, 2023 at 07:30 PM
 -- Server version: 10.4.22-MariaDB
 -- PHP Version: 8.1.2
 
@@ -741,7 +741,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`ID`, `UserName`, `Password`, `Privileges`) VALUES
-(1, 'iamyahya', '$2y$10$rJTbbxqcrPfhtxKNKCF1c.9x89QwDAgG2R3qDzGOC.GeHFs5OD/hW', '1,2,3,4,5,6,7,8,9,10,13,14,15,16,17,18,19,20,21,22,23,24,26'),
+(1, 'yahya', '$2y$10$h6D1c5gqIZadqGsoDS0MseU9mEAQlTfOk1sdr2xqGQNrtT8B8XvKm', '1,2,3,4,5,6,7,8,9,10,13,14,15,16,17,18,19,20,21,22,23,24,26'),
 (2, 'calii', '$2y$10$0PG8LC1MHo4ASQHgfU48IessTz5W8BPuYaRpP46fHPw3GN4Z0LYF6', '4'),
 (3, 'dahir', '$2y$10$KOgQu3nXGqG2Ub792r5nX.iGP.BIKn5DS73tORdtaeyP8ONOcv8M.', '21,22');
 
